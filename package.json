@@ -1,5 +1,5 @@
 {
-  "name": "stripto-staking-dapp",
+  "name": "staking-daap",
   "source": "public/index.html",
   "dependencies": {
     "@download/blockies": "^1.0.3",
@@ -48,7 +48,7 @@
   "scripts": {
     "start": "parcel serve --no-cache public/index.html && parcel watch --no-cache  public/index.html",
     "start-cached": "parcel",
-    "build": "parcel build --no-cache --reporter @parcel/reporter-bundle-buddy",
+    "build": "parcel build",
     "lint": "eslint .",
     "lint:fix": "eslint --fix ./src/**/*.{js,jsx,ts,tsx}",
     "format": "prettier --write .",
