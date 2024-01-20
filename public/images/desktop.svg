@@ -1,0 +1,36 @@
+<svg width="1920" height="1601" viewBox="0 0 1920 1601" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_1_40)">
+<circle cx="140.5" cy="536.5" r="211.5" fill="#FF0D6A"/>
+</g>
+<g filter="url(#filter1_f_1_40)">
+<circle cx="409.682" cy="536.5" r="211.5" fill="#0500FF"/>
+</g>
+<g opacity="0.4" filter="url(#filter2_f_1_40)">
+<circle cx="838.5" cy="864.5" r="211.5" fill="#00FFE0"/>
+</g>
+<g filter="url(#filter3_f_1_40)">
+<circle cx="1856.5" cy="120.5" r="211.5" fill="#FF0D6A"/>
+</g>
+<defs>
+<filter id="filter0_f_1_40" x="-595.38" y="-199.38" width="1471.76" height="1471.76" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="262.19" result="effect1_foregroundBlur_1_40"/>
+</filter>
+<filter id="filter1_f_1_40" x="-326.198" y="-199.38" width="1471.76" height="1471.76" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="262.19" result="effect1_foregroundBlur_1_40"/>
+</filter>
+<filter id="filter2_f_1_40" x="102.62" y="128.62" width="1471.76" height="1471.76" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="262.19" result="effect1_foregroundBlur_1_40"/>
+</filter>
+<filter id="filter3_f_1_40" x="1120.62" y="-615.38" width="1471.76" height="1471.76" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="262.19" result="effect1_foregroundBlur_1_40"/>
+</filter>
+</defs>
+</svg>
