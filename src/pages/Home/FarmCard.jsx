@@ -156,7 +156,7 @@ const FarmCard = ({
         balance={farmData?.balance?.data}
         pool={pool}
         min={tierData?.minDeposit}
-        max={farmData?.farmData?.data?.pools[level]?.minDeposit}
+        //max={farmData?.farmData?.data?.pools[level]?.minDeposit}
         tier={tier}
       />
       <CardToken
